@@ -1,0 +1,2 @@
+./quant_dataset/000032_jpg.rf.4cab9e35d9cd70d7f06bad77cea893b6.jpg
+./quant_dataset/000077_jpg.rf.66b9eb4429bda04315e4bda907efa3d8.jpg
